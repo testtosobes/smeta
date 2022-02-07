@@ -1,0 +1,6 @@
+#FileLock
+#Tue Feb 01 08:57:55 MSK 2022
+server=192.168.56.1\:4976
+hostName=Z
+method=file
+id=17eb3dc5e4e5d44e85c249c8ba1bd82fa9a9ddaa659
